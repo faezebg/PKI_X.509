@@ -261,27 +261,8 @@ python pki_lab.py ca-sign --approval pki/approvals/client1.approval.json
 python pki_lab.py verify-cert --cert pki/certs/client1.cert.pem
 ```
 
-## Documentation
 
-- [pki_manual.pdf](pki_manual.pdf) - Complete technical documentation
-- Certificate structure follows RFC 5280
-- CSR format follows RFC 2986
-- CRL format follows RFC 5280
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is provided as-is for educational purposes.
-
-## Author
-
-PKI Lab Educational Project
 
 ## References
 
@@ -292,4 +273,3 @@ PKI Lab Educational Project
 
 ---
 
-**Last Updated**: July 2026
